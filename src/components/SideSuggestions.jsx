@@ -11,7 +11,7 @@ const SideSuggestions = () => (
       <p className="text-xs mt-1 text-gray-500">See your browsing history</p>
     </div>
     <div>
-      <h4 className="font-bold mb-2">Suggestions for You</h4>
+      <h4 className="font-bold mb-2">Suggestions for You !</h4>
       <img
         src="https://tse1.mm.bing.net/th?id=OIP.vXlDlttGtujHK5tNBmxXvAHaHa&pid=Api&P=0&h=180"
         className="rounded w-full object-contain"
